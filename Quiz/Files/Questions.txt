@@ -1,0 +1,15 @@
+Question: What is the capital of France?
+Options: A. Paris  B. Rome  C. Berlin  D. Madrid
+Answer: Paris
+Question: What is the capital of Bangladesh?
+Options: A. Paris  B. Rome  C. Dhaka  D. Madrid
+Answer: Dhaka
+Question: What is the capital of England?
+Options: A. Paris  B. London  C. Berlin  D. Madrid
+Answer: London
+Question: What is the capital of Rendia?
+Options: A. Paris  B. Delhi  C. Berlin  D. Madrid
+Answer: Delhi
+Question: What is the capital of Dhaka?
+Options: A. Paris  B. Rome  C. Berlin  D. DU
+Answer: DU
